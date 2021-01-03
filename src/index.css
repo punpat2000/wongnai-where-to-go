@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: DB Heavent Now, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url(./font/2Dtxdle.woff2) format("woff2"),
+    url(./font/AhDP8sN.woff) format("woff"),
+    url(./font/1nMdTO-.ttf) format("truetype");
+}
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url(./font/fVBXgVN.woff2) format("woff2"),
+    url(./font/2LUA7Sx.woff) format("woff"),
+    url(./font/3Mfm1ne.ttf) format("truetype");
+}
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url(./font/13DH4XR.woff2) format("woff2"),
+    url(./font/3QlTinT.woff) format("woff"),
+    url(./font/1wx_mXp.ttf) format("truetype");
+}
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url(./font/2A8kgfD.woff2) format("woff2"),
+    url(./font/1xTABeA.woff) format("woff"),
+    url(./font/1qQN099.ttf) format("truetype");
+}
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url(./font/2whHeKX.woff2) format("woff2"),
+    url(./font/1H1y1dh.woff) format("woff"),
+    url(./font/1BEEYEm.ttf) format("truetype");
+}
+@font-face {
+  font-family: DB Heavent Now;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url(./font/1AJHLmi.woff2) format("woff2"),
+    url(./font/13tHZv4.woff) format("woff"),
+    url(./font/1f-xLtD.ttf) format("truetype");
+}

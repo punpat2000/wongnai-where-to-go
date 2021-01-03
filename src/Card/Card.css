@@ -1,0 +1,88 @@
+.Card-padding {
+  padding-top: 3%;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.trip-tags {
+  color: #828282;
+  font-size: 0.8em;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 450px;
+}
+.main-wrapper {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.big-pic {
+  width: 250px;
+  height: 100%;
+  margin-right: 20px;
+}
+
+.content-wrapper {
+  max-width: 500px;
+  height: 100%;
+}
+
+.text-wrapper {
+  width: 100%;
+  height: 60%;
+  display: block;
+  flex-direction: column;
+}
+
+.pic-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40%;
+  width: 100%;
+}
+
+.title {
+  margin-block-start: 0.2em;
+  margin-block-end: 0.2em;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.title a {
+  text-decoration: none;
+  color: black;
+}
+
+.description {
+  margin-block-start: 0.2em;
+  margin-block-end: 0.2em;
+  color: #828282;
+  font-size: 0.9em;
+  font-weight: 400;
+}
+
+.description a {
+  color: #2C9CDB;
+}
+
+.pic-item {
+  height: 150px;
+  width: 150px;
+}
+.cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 25px;
+}
